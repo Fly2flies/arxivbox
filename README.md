@@ -1,4 +1,4 @@
-# ⚡ arxivbox [![DEMO](https://img.shields.io/badge/DEMO-online-<COLOR>.svg)](https://shields.io/)
+# ⚡ arxivbox [![DEMO](https://img.shields.io/badge/Python-Dash-<COLOR>.svg)](https://plotly.com/dash/)
 
 <img src="demo.gif"/>
 
