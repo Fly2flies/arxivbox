@@ -1,5 +1,6 @@
 import setuptools
 
+
 setuptools.setup(
     name="arxivbox",
     version="1.0.6",
