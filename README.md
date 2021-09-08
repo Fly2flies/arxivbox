@@ -1,4 +1,4 @@
-# ⚡ arxivbox ?style=social&logo=appveyor
+# ⚡ arxivbox
 
 <img src="demo.gif" width="800"/>
 
