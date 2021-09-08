@@ -22,4 +22,6 @@ Dash is running on http://127.0.0.1:27014/
  * Running on http://127.0.0.1:27014/ (Press CTRL+C to quit)
  
 ```
-Visit the link http://127.0.0.1:xxxxx/ to open the web interface.
+## How to add other conferences & Journals?
+
+Currently, arxivbox considers only major computer vision and machine learning conferences. There is an option to enter custom conference name. However, if someone wants to change the default list then it should be done by simply changing the categories in `<confs>` variable in the __main__.py file.
