@@ -1,4 +1,4 @@
-# ⚡ arxivbox [![demo](https://img.shields.io/badge/Python-Enabled-<COLOR>.svg)]
+# ⚡ arxivbox [![DEMO](https://img.shields.io/badge/DEMO-arxivbox-<COLOR>.svg)](https://shields.io/)
 
 <img src="demo.gif"/>
 
