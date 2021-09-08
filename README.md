@@ -22,3 +22,4 @@ Dash is running on http://127.0.0.1:27014/
  * Running on http://127.0.0.1:27014/ (Press CTRL+C to quit)
  
 ```
+Visit the link 'http://127.0.0.1:XXXXX/' to open the web interface.
