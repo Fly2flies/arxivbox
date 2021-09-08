@@ -24,4 +24,4 @@ Dash is running on http://127.0.0.1:27014/
 ```
 ## How to add other conferences & Journals?
 
-Currently, arxivbox considers only major computer vision and machine learning conferences. There is an option to enter custom conference name. However, if someone wants to change the default list then it should be done by changing the `<confs>` variable in the __main__.py file.
+Currently, arxivbox considers only major computer vision and machine learning conferences. There is an option to enter custom conference name. However, if someone wants to change the default list then it should be done by changing the `confs` variable in the __main__.py file.
