@@ -8,7 +8,7 @@
 $ pip install arxivbox
 $ python -m arxivbox
 ```
-If installed successfully the output should look like follow:
+The app is built using Dash API. If installed successfully the output should look like follow:
 
 ```bash
 
