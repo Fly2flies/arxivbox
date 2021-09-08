@@ -8,3 +8,17 @@
 $ pip install arxivbox
 $ python -m arxivbox
 ```
+If installed successfully the output should look like follow:
+
+```bash
+
+Dash is running on http://127.0.0.1:27014/
+
+ * Serving Flask app '__main__' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:27014/ (Press CTRL+C to quit)
+ 
+```
