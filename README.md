@@ -2,7 +2,7 @@
 
 <img src="demo.gif" width="800"/>
 
-# 💬Install & Usage
+## 💬Install & Usage
 
 ```bash
 $ pip install arxivbox
