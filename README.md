@@ -1,8 +1,8 @@
-# ⚡arxivbox
+# ⚡ arxivbox ?style=social&logo=appveyor
 
 <img src="demo.gif" width="800"/>
 
-## 💬Install & Usage
+## 💬 Install & Usage
 
 ```bash
 $ pip install arxivbox
@@ -22,6 +22,8 @@ Dash is running on http://127.0.0.1:27014/
  * Running on http://127.0.0.1:27014/ (Press CTRL+C to quit)
  
 ```
-## How to add other conferences & Journals?
+## 💬 How to add other conferences & Journals?
 
 Currently, arxivbox considers only major computer vision and machine learning conferences. There is an option to enter custom conference name. However, if someone wants to change the default list then it should be done by changing the `confs` variable in the __main__.py file.
+
+## 
